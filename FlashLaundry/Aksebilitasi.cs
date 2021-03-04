@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FlashLaundry
 {
-    public partial class Login : Form
+    public partial class Aksebilitasi : Form
     {
-        public Login()
+        public Aksebilitasi()
         {
             InitializeComponent();
         }
